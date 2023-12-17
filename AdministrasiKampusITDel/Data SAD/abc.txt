@@ -1,0 +1,1 @@
+Member { Nama: wqe, Gender: wqe, Alamat: ewq, Username: ew, Password: ew }

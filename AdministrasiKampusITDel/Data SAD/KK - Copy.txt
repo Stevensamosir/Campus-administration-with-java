@@ -1,0 +1,4 @@
+NIK Ayah: 121212001, NIK Ibu: 121212002, NIK Anak:121212003, Status: Ditolak, Request by: test
+NIK Ayah: 121212002, NIK Ibu: 121212002, NIK Anak:121212003, Status: Diterima, Request by: test
+NIK Ayah: 121212003, NIK Ibu: 121212002, NIK Anak:121212003, Status: Ditolak, Request by: test
+NIK Ayah: 121212007, NIK Ibu: 121212008, NIK Anak:121212001_121212002_121212003, Status: Diterima, Request by: nani

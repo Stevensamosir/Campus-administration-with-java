@@ -1,0 +1,6 @@
+nim: 11422031, Nama: Frans Elo Hansen Panjaitan, Gender: Laki-laki, Tempat Lahir: Balige, Tanggal Lahir: 21/01/2004, Golongan Darah: o, Agama: Kristen, program_studi: D4 TRPL, Nama Ayah: Jamet, Nama Ibu: xx
+nim: 11422014, Nama: Very Marpaung, Gender: Laki-laki, Tempat Lahir: Siantar, Tanggal Lahir: 21/09/2004, Golongan Darah: o, Agama: Kristen, program_studi: D4 TRPL, Nama Ayah: Mutiha, Nama Ibu: xxx
+nim: 11422016, Nama: Steven Samosir, Gender: Laki-Laki, Tempat Lahir: Siantar, Tanggal Lahir: 10/12/2004, Golongan Darah: o, Agama: Kristen, program_studi: D4 TRPL, Nama Ayah: Mutiha, Nama Ibu: xxx
+nim: 11422006, Nama: Melva Manik, Gender: Wanita, Tempat Lahir: Siantar, Tanggal Lahir: 10/12/2004, Golongan Darah: o, Agama: Kristen, program_studi: D4 TRPL, Nama Ayah: Mutiha, Nama Ibu: xxx
+nim: 11422054, Nama: Diva Napitupulu , Gender: Wanita, Tempat Lahir: Siantar, Tanggal Lahir: 10/12/2004, Golongan Darah: o, Agama: Kristen, program_studi: D4 TRPL, Nama Ayah: Mutiha, Nama Ibu: xxx
+

@@ -1,0 +1,4 @@
+NIM: 11422014, Tujuan: Ujian, Status: Diterima, Request by: veri
+NIM: 11422031, Tujuan: balige, Status: Diminta, Request by: Frans
+NIM: 11422031, Tujuan: Balige, Status: Diminta, Request by: Frans
+NIM: 11422031, Tujuan: Hilang, Status: Diminta, Request by: Frans

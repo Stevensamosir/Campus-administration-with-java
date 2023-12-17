@@ -1,0 +1,10 @@
+NIK: 11422014, Status: Diterima, Request by: veri
+NIK: 11422014, Status: Diterima, Request by: veri
+NIK: 11422014, Status: Diterima, Request by: veri
+NIK: 11422014, Status: Diterima, Request by: veri
+NIM: null, Status: Diterima, Request by: veri
+NIM: null, Status: Diterima, Request by: veri
+NIM: 11422014, Status: Diterima, Request by: veri
+NIM: 11422014, Status: Diminta, Request by: veri
+Nim: 11422031, Nama: Frnas, Program Studi:D4 TRPL, Status: Diminta, Request by: Frans
+Nim: 11422031, Nama: Frans, Program Studi:trpl, Status: Diminta, Request by: Frans

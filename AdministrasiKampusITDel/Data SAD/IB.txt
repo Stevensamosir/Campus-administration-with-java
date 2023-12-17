@@ -1,0 +1,3 @@
+NIM: 11422014, Alamat Sekarang: 8 Maret 09.00 WIB, Alamat Tujuan: 12 Maret 13.00 WIB, Jumlah: Brazil, Status: Diterima, Request by: veri
+NIM: 11422031, Alamat Sekarang: adb, Alamat Tujuan: awd, Jumlah: awd, Status: Diterima, Request by: veri
+NIM: 11422031, Alamat Sekarang: 20/12/2023, Alamat Tujuan: 11/01/2024, Jumlah: Balige, Status: Diminta, Request by: Frans

@@ -1,0 +1,9 @@
+NIK Ayah: 121212001, NIK Ibu: 121212002, NIK Anak:121212003, Status: Ditolak, Request by: test
+NIK Ayah: 121212002, NIK Ibu: 121212002, NIK Anak:121212003, Status: Diterima, Request by: test
+NIK Ayah: 121212003, NIK Ibu: 121212002, NIK Anak:121212003, Status: Ditolak, Request by: test
+NIK Ayah: 121212007, NIK Ibu: 121212008, NIK Anak:121212001_121212002_121212003, Status: Diterima, Request by: nani
+NIK Ayah: 11422014, NIK Ibu: Veri Marsil Marpaung, NIK Anak:TRPL, Status: Diterima, Request by: veri
+NIK Ayah: 11422014, NIK Ibu: Veri Marsil Marpaung, NIK Anak:TRPL, Status: Diterima, Request by: veri
+Nim: 11422014, Nama: Veri Marsil Marpaung, Program Studi:TRPL, Status: Diterima, Request by: veri
+Nim: 11422014, Nama: veri, Program Studi:trpl, Status: Diminta, Request by: veri
+Nim: 11422031, Nama: Frans, Program Studi:D4 TRPL, Status: Diminta, Request by: Frans
